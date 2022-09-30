@@ -1,0 +1,3 @@
+[submodule "Swapycoin"]
+	path = Swapycoin
+	url = https://github.com/davidpales1/Swapycoin.git
