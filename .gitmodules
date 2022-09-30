@@ -1,3 +1,12 @@
 [submodule "Swapycoin"]
 	path = Swapycoin
 	url = https://github.com/davidpales1/Swapycoin.git
+[submodule "Swapynet_Mobile"]
+	path = Swapynet_Mobile
+	url = https://github.com/davidpales1/Swapynet_Mobile.git
+[submodule "Swapynet_Frontend"]
+	path = Swapynet_Frontend
+	url = https://github.com/davidpales1/Swapynet_Frontend.git
+[submodule "Swapynet_Backend"]
+	path = Swapynet_Backend
+	url = https://github.com/davidpales1/Swapynet_Backend.git
